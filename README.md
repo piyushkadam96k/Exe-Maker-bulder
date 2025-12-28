@@ -19,21 +19,6 @@
     *   **Hidden Imports**: Manually fix missing module errors.
 *   **⚡ Real-Time Logs**: View the build process live right in the application.
 
-## 🚀 Installation
-
-1.  **Clone the repository** (or download usage):
-    ```bash
-    git clone https://github.com/yourusername/kadam-exe-maker.git
-    cd kadam-exe-maker
-    ```
-
-2.  **Install Dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-## 🎮 How to Use
-
 1.  Run the application:
     ```bash
     python main.py
@@ -59,3 +44,4 @@ Feel free to fork this project and submit Pull Requests. Ideas and improvements 
 
 ---
 *Made with ❤️ by Kadam*
+
